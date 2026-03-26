@@ -7,7 +7,7 @@
   },
   "server": {
     "ip": "SzkolaKrzemienica.aternos.me",
-    "port": "49180",
+    "port": "10000",
     "version": "1.21.11",
     "try-creative": false
   },
